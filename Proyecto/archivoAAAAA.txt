@@ -1,0 +1,41 @@
+
+ Nombre del equipo: 'A'
+ Nombre del director tecnico: Abril
+ Formacion: 5
+ Numero de jugadores: 1
+ Jugador 'Itzel'
+ Edad: 18
+ Numero de camiseta: 26
+ Posicion de juego: Delantero
+ Nombre del equipo: 'B'
+ Nombre del director tecnico: Ernesto
+ Formacion: 4
+ Numero de jugadores: 1
+ Jugador 'Juan'
+ Edad: 19
+ Numero de camiseta: 26
+ Posicion de juego: Portero
+ Nombre del equipo: 'C'
+ Nombre del director tecnico: Rodrigo
+ Formacion: 6
+ Numero de jugadores: 2
+ Jugador 'Lina'
+ Edad: 19
+ Numero de camiseta: 14
+ Posicion de juego: Deltantero
+ Jugador 'Ernesto'
+ Edad: 19
+ Numero de camiseta: 15
+ Posicion de juego: Media punta
+ Nombre del equipo: 'D'
+ Nombre del director tecnico: Juan
+ Formacion: 6
+ Numero de jugadores: 2
+ Jugador 'Abril'
+ Edad: 18
+ Numero de camiseta: 12
+ Posicion de juego: Defensa
+ Jugador 'Lina'
+ Edad: 19
+ Numero de camiseta: 16
+ Posicion de juego: Extremo

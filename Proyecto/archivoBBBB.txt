@@ -1,0 +1,45 @@
+
+ ---- Calendario ----
+
+ Jornada 1
+             Dia   Mes
+ B vs A      19    6
+ C vs B      20    6
+ D vs C      21    6
+
+ Jornada 2
+             Dia   Mes
+ C vs A      24    6
+ D vs B      25    6
+
+ Jornada 3
+             Dia   Mes
+ C vs B      28    6
+ D vs A      29    6
+
+ ---- Marcadores ----
+
+ Jornada 1
+ Nombre  Goles  vs   Goles  Nombre
+   B       5            5       A
+
+   C       4            9       B
+
+   D       3            5       C
+
+ Jornada 2
+ Nombre  Goles  vs   Goles  Nombre
+   C       6            6       A
+
+   D       2            8       B
+
+ Jornada 3
+ Nombre  Goles  vs   Goles  Nombre
+   C       2            2       B
+
+   D       6            3       A
+
+ Puntos del equipo A: 2
+ Puntos del equipo B: 8
+ Puntos del equipo C: 5
+ Puntos del equipo D: 3

@@ -1,0 +1,15 @@
+
+ ---- Ganador y marcadores finales ----
+
+ Goles del equipo A: 14
+ Goles del equipo B: 24
+ Goles del equipo C: 17
+ Goles del equipo D: 11
+
+ Los puntos del equipo B son: 8
+ Los puntos del equipo C son: 5
+ Los puntos del equipo D son: 3
+ Los puntos del equipo A son: 2
+
+ El ganador es el EQUIPO B
+ ------ !FELICIDADES! -------
